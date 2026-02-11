@@ -102,7 +102,7 @@
 
 - Building a **local AI assistant with memory + tool usage**
 - Developing **real-time sign language recognition**
-- Designing **custom Linux OS (Helix OS X)**
+- Designing **HashLock Messenger – a secure messaging application focused on privacy and encryption**
 
 ---
 
@@ -118,11 +118,8 @@ I build systems around them.
 <p align="left">
 <a href="https://www.linkedin.com/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://github.com/aswathraj01"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href="https://x.com/AswathRaj10"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
----
 
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
